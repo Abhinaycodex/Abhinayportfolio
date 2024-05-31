@@ -1,4 +1,5 @@
 import React from "react";
+import me from "../assets/logo.png"
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -11,7 +12,7 @@ const Footer = () => {
     <footer>
       <div>
         <img
-          src={"https://avatars.githubusercontent.com/u/25058652"}
+          src= {me}
           alt="Founder"
         />
 

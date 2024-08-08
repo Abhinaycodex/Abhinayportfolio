@@ -31,7 +31,7 @@
           align-items: center;
           > a {
             &:first-of-type {
-              background-color: $color3;
+              background-color: rgb(176, 103, 81);
               color: $color1;
               padding: 1rem 2.5rem;
               transition: all 0.3s;
@@ -97,7 +97,7 @@
         content: "";
         width: 40vmax;
         height: 40vmax;
-        background-color: $color3;
+        background-color: rgb(176, 103, 81);
         position: absolute;
         z-index: -1;
         border-radius: 50%;

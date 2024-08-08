@@ -1,5 +1,5 @@
 import React from "react";
-import me from "../assets/logo.png"
+import me from "../assets/photo.png"
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -17,14 +17,14 @@ const Footer = () => {
         />
 
         <h2>Abhinay Raj Gupta</h2>
-        <p>Motivation is temporary, but discipline last forever.</p>
+        <p>Practice Practice Practice  </p>
       </div>
 
       <aside>
         <h2>Social Media</h2>
 
         <article>
-          <a href="https://youtube.com/" target={"blank"}>
+          <a href="https://youtube.com/@abovethepodcast1974?si=2BxkTfOQJXANpP1A" target={"blank"}>
             <AiFillYoutube />
           </a>
           <a href="https://instagram.com/abhinay_r_gupta" target={"blank"}>

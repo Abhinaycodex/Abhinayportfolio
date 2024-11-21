@@ -1,6 +1,9 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { AiFillIeCircle, AiFillAndroid, AiFillWindows } from "react-icons/ai";
+import { AiFillIeCircle } from "react-icons/ai";
+import { FaDocker } from "react-icons/fa";
+import { FaGitAlt } from "react-icons/fa";
+
 
 const Services = () => {
   const animations = {
@@ -52,16 +55,16 @@ const Services = () => {
             delay: 0.2,
           }}
         >
-          <AiFillAndroid />
-          <span>App Development</span>
+          <FaDocker />
+          <span>DOCKER</span>
         </motion.div>
         <motion.div
           className="serviceBox4"
           whileInView={animations.whileInView}
           initial={animations.four}
         >
-          <AiFillWindows />
-          <span>Desktop Development</span>
+          <FaGitAlt />
+          <span>GIT BASH</span>
         </motion.div>
       </section>
     </div>

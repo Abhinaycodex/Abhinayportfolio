@@ -1,17 +1,19 @@
+
+
 {
   "projects": [
     {
       "date": "17/04/2024",
       "title": "PASSWORD GENERATOR",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "A web application that generates secure and customizable passwords based on user-selected criteria like length, inclusion of symbols, numbers, and uppercase/lowercase letters. Built for enhancing online security.",
       "url": "https://password-generator-six-gamma.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2023/01/26/13/12/security-7745890_1280.jpg"
     },
 
     {
       "date": "11/08/2024",
-      "title": "Netflix",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "title": "Netflix Clone",
+      "description": "A Netflix-inspired web app showcasing a sleek user interface to browse and stream dummy movie trailers and shows. Built with React and integrated with TMDB API for dynamic content rendering.",
       "url": "https://netflixx-liart.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2023/06/18/22/42/cinema-8072878_960_720.png"
     },
@@ -19,9 +21,40 @@
     {
       "date": "08/08/2024",
       "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "A personal portfolio website highlighting my projects, skills, and professional journey. Designed to be visually appealing and responsive, showcasing my web development expertise.",
       "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      "imgSrc": "https://cdn.pixabay.com/photo/2023/09/27/10/48/portfolio-8279357_960_720.jpg"
+    },
+
+    {
+      "date": "02/09/2024",
+      "title": "Typing Test",
+      "description": "A real-time typing test application where users can measure typing speed and accuracy. Designed to help users improve their typing efficiency, featuring a clean and interactive UI.",
+      "url": "https://speedtyping-theta.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/29/11/39/computer-1869236_960_720.jpg"
+    },
+
+    {
+      "date": "02/09/2024",
+      "title": "AbhiChat-AI",
+      "description": "An AI-powered chatbot that uses natural language processing (NLP) to assist users with tasks, provide conversational support, and demonstrate AI-based interactions. Built with React and integrated AI libraries.",
+      "url": "https://abhichat-ai.vercel.app/",
+      "imgSrc": "https://media.istockphoto.com/id/1149178089/photo/artificial-intelligence-technology.webp?s=2048x2048&w=is&k=20&c=IU4SfeFFLznLZ2PhpXhzYGTT-9xvkKmAloYU9PzOO4A="
+    },
+
+    {
+      "date": "20/11/2024",
+      "title": "Commercial Properties",
+      "description": "A comprehensive property listing platform for commercial real estate. Developed using the MERN stack, it enables users to browse, filter, and upload property listings with ease.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/09/25/09/17/sale-3701777_1280.jpg"
+    },
+    {
+      "date": "20/11/2024",
+      "title": "recipe",
+      "description": "A comprehensive property listing platform for commercial real estate. Developed using the MERN stack, it enables users to browse, filter, and upload property listings with ease.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/09/25/09/17/sale-3701777_1280.jpg"
     }
   ]
 }

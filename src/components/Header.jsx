@@ -3,7 +3,7 @@ import { AiOutlineMenu } from "react-icons/ai";
 
 const Header = ({ setMenuOpen, menuOpen }) => {
   return (
-    <>
+    <> 
       <nav>
         <NavContent setMenuOpen={setMenuOpen} />
       </nav>
